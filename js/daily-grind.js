@@ -86,7 +86,7 @@ switch(today){
         
         coffee = {
             name: "Caramel latte",
-            pic: "images/Caramel-latte.jpg",
+            pic: "images/caramel-latte.jpg",
             alt: "A picture of a Caramel latte",
             color: "dark brown",
             day: "Wednesday",
